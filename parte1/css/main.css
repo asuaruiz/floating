@@ -1,0 +1,18 @@
+#contenedor{
+	border: 1px solid gray;
+	height: auto;
+	width: 50%;
+}
+.redbox {
+	background-color: red;
+}
+.bluebox {
+	background-color: blue;
+}
+.yellowbox {
+	background-color: yellow;
+}
+div {
+	height: 100px;
+	width: 25%;
+}
