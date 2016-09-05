@@ -1,0 +1,22 @@
+#contenedor{
+	height: auto;
+	width: 50%;
+	border: 1px solid gray;
+	overflow: hidden;
+}
+.redbox {
+	background-color: rgb(237,34,81);
+	float: left;
+}
+.bluebox {
+	background-color: rgb(58,129,186);
+	float: left;
+}
+.yellowbox {
+	background-color: rgb(255,255,0);
+	float: left;
+}
+div {
+	height: 100px;
+	width: 25%;
+}
